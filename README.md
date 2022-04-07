@@ -1,2 +1,0 @@
-# famegameApp
-接入APP种水果模块，当前项目首次进入取链接token，其他操作取getToken方法返回值。当前模块存在重新加载功能
